@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Strogonoff de Frango
+=======
+Strogonoff de Frango 
+>>>>>>> 1c4d17b3757b15014831b5f8d6422b9a11b93ea9
